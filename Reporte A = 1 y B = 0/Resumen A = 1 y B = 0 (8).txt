@@ -1,0 +1,9 @@
+Resumen del Circuito Cuántico para A=1 y B=0:
+
+Se inicializan los qubits A y B en los estados 1 y 0, respectivamente.
+Se aplica una puerta CNOT para obtener la suma de A y B.
+Se aplica una puerta Toffoli (CCNOT) para obtener el acarreo de A y B.
+Se mide el qubit 1 para la suma y el qubit 2 para el acarreo.
+ek resultado más probable es suma = 1 y acarreo = 1.
+Se genera un histograma con la distribución de probabilidad de los resultados.
+Por último, se muestran los estados de entrada de los qubits A y B.

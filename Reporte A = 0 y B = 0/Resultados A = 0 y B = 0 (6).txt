@@ -1,0 +1,2 @@
+Resultado de la Suma (S): 0
+Distribución de Probabilidad de los Resultados: {'00': 1024}
